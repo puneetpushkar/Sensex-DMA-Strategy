@@ -1,4 +1,4 @@
-# Sensex-100DMA-Strategy
+# Sensex-DailyMovingAverage-Strategy
 
 ## Intro 📝
 
